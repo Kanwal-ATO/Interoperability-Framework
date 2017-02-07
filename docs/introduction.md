@@ -1,13 +1,13 @@
-1. Introduction
+# 1. Introduction
 
-1.1 Background
+## 1.1 Background
 
-1.1.1 Digitisation in general
+### 1.1.1 Digitisation in general
 
 Public and private sector organisations across the globe are actively seeking to improve performance, reduce operating costs and promote economic growth through digitisation. Over the last few years several Australia wide initiatives have made significant inroads to catalyse change and introduce digital building blocks to help reduce business burden and increase productivity and efficiency. More recently, momentum around digital transformation has increased substantially and there is now an opportunity to help the entire Australian business community (including both private and public sectors) to further embrace digital solutions and enhance performance in common business practices such as business to business interactions, for example procurement of the ‘procure to pay’ processes/ ‘order to cash’ processes.
 
 
-1.1.2 Invoicing
+### 1.1.2 Invoicing
 Invoicing is currently a significant cost to the Australian economy. It involves a variety of paper based and electronic forms dealing with the production, distribution, data capture, matching, reconciliation, dispute management and subsequent archiving of documents, errors, manual intervention and processing delays.
 
 The Atradius Payment Practices Barometer (2015) survey found that, of those surveyed, one in five stated that the invoices were often sent to the wrong recipients and one in three stated that there was either incorrect information on the invoice, non-correspondence of the goods delivered or services provided were not as agreed in the sales contract.
@@ -21,7 +21,7 @@ For example, a small business specialising in high performance glazing and glass
 Recognising the opportunity for efficiency gains in 2015 the Australian Business Register, under Ministerial guidance, engaged Billentis (an international consulting firm) to provide recommendations in relation to an implementation model for a whole of economy approach to eInvoicing, where the sending, receipt and storage of invoices could be performed electronically.
 
 
-1.1.3 Establishment of the Council
+### 1.1.3 Establishment of the Council
 
 One of the key Billentis recommendations was to establish a Multi Stakeholder Forum to align public and private sector requirements. This has evolved into the establishment of the industry driven Digital Business Council (Council).
 
@@ -42,11 +42,12 @@ The Council’s other objectives (covered by separate streams of work and docume
 + establishing and monitoring working groups to focus on particular areas of interoperability standards including, but not limited to, Semantic and Technical Interoperability.
 
 
-1.2 Current Situation
+## 1.2 Current Situation
 
 While there are a range of disparate solutions currently in use these do not resolve the need of a whole of economy and open approach to eInvoicing. Billentis (2015), said that Australia is lagging the world in whole of economy based eInvoicing. Reports also indicate Australia is lagging behind leading markets in its response to digital disruption and adoption of new digital services (NICTA, 2015).
 
 The Australian SME sector has also progressed into a variety of solutions to assist with the generation and receipt of invoices, for example:
+
 + Business software can generate invoices in PDF form and send via email to buyers. This approach is also more popularly known as eBilling as it does little to automate the accounts payable process on the buyers side;
 + Buyers using Optical Character Recognition (OCR) to convert PDF or paper into digital data. This approach is more successful in the case where the receiver has provided template forms (i.e. tax returns etc.) and not very successful in the case of invoicing where the formats are controlled by the suppliers, which can result in high maintenance costs and limited data integration; and
 + A number of service providers to this sector have been providing commercial solutions for transfer of data using proprietary or closed standards.
@@ -54,6 +55,7 @@ The Australian SME sector has also progressed into a variety of solutions to ass
 Large organisations and technically advanced businesses have recognised the benefits of eInvoicing and invested in a variety of disparate trading networks to enable them to conduct business electronically.
 
 These trading networks have, over time, come to represent technological ‘islands’ of digital trade. As a result:
+
 + buyers and suppliers have to create and maintain different connections to multiple eInvoicing networks;
 + SMEs have expressed concerns about issues and challenges surrounding the incompatibility and interoperability between different networks;
 + sector dominant large scale businesses are able to pressure smaller players to adopt their preferred standards and technologies;
