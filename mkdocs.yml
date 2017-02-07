@@ -1,6 +1,7 @@
 site_name: Interoperability Framework
 repo_url: https://github.com/Digital-Business-Council/Interoperability-Framework
 pages:
-    - 'Audience & Disclaimer': 'index.md'
+    - 'Audience': 'index.md'
+    - 'Disclaimer': 'disclaimer.md'
     - 'Introduction': 'introduction.md'
 theme: mkdocs
