@@ -1,4 +1,5 @@
-﻿## Disclaimer & Copyright
+
+## Disclaimer & Copyright
 
 ### Disclaimer 
 This document is a publication of the Digital Business Council (Council):
