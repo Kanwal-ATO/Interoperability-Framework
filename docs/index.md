@@ -1,4 +1,4 @@
-﻿# Interoperability Framework
+# Interoperability Framework
 
 ## Audience
 
