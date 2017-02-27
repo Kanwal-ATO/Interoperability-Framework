@@ -1,4 +1,3 @@
-
 # The Digital Business Council's Interoperability Framework
 
 ## Audience
@@ -36,3 +35,6 @@ Appendix | 10 | |
 Primary Audience | img 
 ---|---
 **Secondary Audience** | img
+
+
+
