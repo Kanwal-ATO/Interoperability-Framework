@@ -7,4 +7,7 @@ This chapter provides more information on the technical specifications underpinn
 | | | |
 | --- |------- |--------------- |
 | Service |Component |Key Specifications |
-![Customer](/images/cutomer-base-icon.png)|**expand your customer base** | Accrediting your product with the Digital Business Council shows the market that, when it comes to digital eCommerce, you are committed to the open, secure and standard exchange of transactions. Your relationship with the Digital Business Council will help extend your reach into the market.| 
+**Message Delivery** | Access Point | A Council profile of the OASIS version 1.0 of the Applicability Statement 4 (AS4) Profile of the ebXML Messaging Services (ebMS) 3.0 standard – ebMS3 AS.|
+                    | Digital Capability Locator (DCL) | Council profile of the OASIS Business Document Metadata Service Location Version 1.0 (SML) Version 1.0 committee specification.| 
+**Business Discovery** |Digital Capability Publisher (DCP)| Council profile of the OASIS Service Metadata Publishing (SMP) Version 1.0 committee specification |
+                      | Business Identifiers| Council policy on the use of business identifiers. |                    
